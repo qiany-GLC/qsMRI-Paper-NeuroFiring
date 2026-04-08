@@ -10,3 +10,9 @@ Second, to download the data, switch branch from "main" to "code-and-data", then
 
 3. Q&A. 
 If you have any quesiton, please contact the author, Yongxian Qian, PhD, via email Yongxian.Qian@nyulangone.org.
+
+4. Software requirment.
+MATLAB version R2021a or later. You already have it on your computer.
+
+5. Source code and data.
+Switch branch from "main" to "Code-and-data", and download all the code and data into one folder on your computer for the testing.
